@@ -22,7 +22,9 @@
 </a>
   <a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white" alt="databricks" height="30"/>
-</a>  </p>
+</a> <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="powerbi" height="30"/>
+</a> </p>
 </p>
 
 
