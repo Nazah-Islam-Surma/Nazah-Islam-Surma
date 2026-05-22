@@ -2,7 +2,7 @@
 <h3 align="center">I am a passionate Data Engineer, experienced in turning raw data into meaningful insights. I work with modern tools like Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake, and the Data Lakehouse to build efficient data pipelines and solutions in the cloud. I also work with BI tools. I love learning and continuously improving my skills to stay up-to-date with the latest in the field.</h3>
 <br/>
 <br/>
-<img src="image/avatarr.jpg" width="500" align="right"/>
+<img src="image/avatarrr.avif" width="500" align="right"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nazah-islam-surma-52b05b267/" target="_blank">
