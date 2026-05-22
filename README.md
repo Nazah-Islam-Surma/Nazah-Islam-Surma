@@ -6,8 +6,9 @@
 
 # Hi, I'm Nazah 👋
 
-Data Engineer who loves building clean pipelines, wrangling messy data, and making things run smoothly in the cloud.
-
+# NAZAH
+I am a passionate Data Engineer ,experienced in turning raw data into meaningful insights. I work with modern tools like Azure Data Factory, Databricks , Azure Synapse Analytics, Delta Lake, and the Data Lakehouse to build efficient data pipelines and solutions in the cloud.I also work with BT tools. I love learning and continuously improving my skills to stay up-to-date with the latest in the field.
+Currently I'm learning GenAI to design and build data pipelines, including: AI‑assisted pipeline and schema design and Apply AI/ML techniques to automate data engineering workflows.
 </div>
 
 ---
