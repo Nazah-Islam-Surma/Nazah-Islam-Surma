@@ -5,8 +5,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/nazah-islam-surma-52b05b267/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazah islam surma" height="30" width="40"/>
-</a><a href="mailto:nazahsurma@gmail.com" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="nazahsurma@gmail.com" height="30" width="40"/>
+</a> <a href="mailto:nazahsurma@gmail.com" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="20" width="20" style="vertical-align:middle;"/>
+  <span style="font-size:13px; vertical-align:middle;"> nazahsurma@gmail.com</span>
 </a>
 </p>
 
