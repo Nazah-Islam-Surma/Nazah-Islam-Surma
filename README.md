@@ -11,11 +11,6 @@
 </a>
 </p>
 
-<table>
-<table width="100%">
-<tr>
-<td valign="top" width="70%">
-
 <p align="left">
   <img src="avatar.png" width="150" align="right"/>
   <h3 align="left">Languages and Tools:</h3>
@@ -29,15 +24,6 @@
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white" alt="databricks" height="30"/>
 </a>  </p>
 </p>
-
-</td>
-<td valign="top" width="30%" align="center">
-
-<img src="avatar.png" width="150"/>
-
-</td>
-</tr>
-</table>
 
 
 
